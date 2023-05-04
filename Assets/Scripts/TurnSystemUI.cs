@@ -11,8 +11,6 @@ public class TurnSystemUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI turnNumberText;
     [SerializeField] private TextMeshProUGUI playerText;
 
- 
-
     private void Start()
     {
         endTurnBtn.onClick.AddListener(() =>
