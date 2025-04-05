@@ -1,5 +1,5 @@
-#University Course: Graphics - Game Development Tutorial
-##Project Overview
+# University Course: Graphics - Game Development Tutorial
+## Project Overview
 
 This tutorial demonstrates how to create a simple turn-based strategy game with the following features:
 
